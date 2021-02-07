@@ -1,0 +1,4 @@
+to use the venv with vscode you will get an error in the terminal due to restricted permissions.
+use this to activate you environment
+
+Set-ExecutionPolicy Unrestricted -Scope Process
