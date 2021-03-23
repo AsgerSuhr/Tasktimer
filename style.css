@@ -1,0 +1,15 @@
+#singleText{
+    color: black;
+    background: darkgray;
+    font-style: bold;
+}
+
+.longerText{
+    color:darkgreen;
+    font-weight: bold;
+    font: caption;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+    float: inline-start;
+}
